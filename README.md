@@ -1,5 +1,5 @@
 # Laravel-Avanced-Account-System
-An advanced register/login system, including token, mail confirmation and password change
+A advanced register/login system for Laravel 8.0 and 9.0 (7.0 Might work, but not verified), including token, mail confirmation and password change
 
 Here are where to config your Account System:
 
